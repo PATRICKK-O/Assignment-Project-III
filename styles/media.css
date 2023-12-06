@@ -1,0 +1,82 @@
+@media (max-width: 650px) {
+  .burger-menu-div {
+    padding-top: 0;
+  }
+  .write-up {
+    font-size: 16px;
+  }
+  .write-up-header {
+    font-size: 21px;
+  }
+  .header-div {
+    background-color: rgb(95, 91, 91);
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0 5px;
+  }
+  .inner-header {
+    font-size: 17px;
+    margin-right: 0;
+  }
+}
+@media (max-width: 500px) {
+  .write-up {
+    font-size: 16px;
+    width: 400px;
+  }
+  .write-up-header {
+    font-size: 23px;
+  }
+  .image-banner {
+    height: 240px;
+  }
+  .table {
+    width: 380px;
+  }
+}
+@media (max-width: 400px) {
+  .write-up {
+    font-size: 16px;
+    width: 320px;
+  }
+  .write-up-header {
+    font-size: 21px;
+  }
+  .image-banner {
+    height: 260px;
+  }
+  .table {
+    width: 310px;
+    font-size: 14px;
+  }
+  .table tr {
+    height: 38px;
+  }
+  .inner-header {
+    font-size: 15px;
+  }
+}
+@media (max-width: 350px) {
+  .write-up {
+    font-size: 16px;
+    width: 300px;
+  }
+  .write-up-header {
+    font-size: 21px;
+  }
+  .image-banner {
+    height: 260px;
+  }
+  .table {
+    width: 290px;
+    font-size: 13px;
+  }
+  .table tr {
+    height: 36px;
+  }
+  .inner-header {
+    font-size: 14px;
+  }
+}
